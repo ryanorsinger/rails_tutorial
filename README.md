@@ -1,5 +1,5 @@
 # Ruby on Rails Tutorial: first application
- Ryan Orsinger's Ruby Experiment
+## Ryan Orsinger's Ruby Experiment
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
